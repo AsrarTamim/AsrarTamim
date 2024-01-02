@@ -2,10 +2,10 @@
 #### Competitive Programmer
  Passionate developer who enjoys programming and loves to contribute to Open Source projects
 
-Skills: C++ / Django/Java / JS / HTML / CSS
+Skills: C++ / Django / Java / JS / HTML / CSS
 
-- 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Djnago 
+- 🔭 I’m currently a Student at East Delt University (CSE)
+- 🌱 I’m currently learning Django 
 - 📫 How to reach me: 01asrartamim@gmail.com 
 
 
